@@ -3,6 +3,17 @@
 
 
 ## Conhecendo o Problema
+Pré processamento de Imagens
+Conceitos de Processamento de Imagens
+Visão Computacional
+Imagens Digitais
+Descritores de uma imagem.
+Classificação de imagens.
+Interpretação de resultados.
+
+Visão Computacional é ciência ou tecnologia das máquinas que enchergam.
+A imagem como uma função.
+Envolve álgebra linear e cálculo diferencial.
 Utilizado na área de segurança.
 
 
